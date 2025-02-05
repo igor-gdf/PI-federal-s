@@ -1,5 +1,5 @@
 /*HEADER*/
-
+@import '/path/to/reset-css/reset.css';
 header {
     display: flex;
     width: auto;
