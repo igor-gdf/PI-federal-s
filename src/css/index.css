@@ -1,5 +1,6 @@
 /*HEADER*/
-@import '/path/to/reset-css/reset.css';
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
+
 header {
     display: flex;
     width: auto;
